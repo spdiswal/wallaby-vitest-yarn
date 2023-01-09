@@ -3,6 +3,7 @@
 !.idea/*.iml
 !.idea/externalDependencies.xml
 !.idea/modules.xml
+!.idea/startup.xml
 
 .vscode/*
 !.vscode/extensions.json

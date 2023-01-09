@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"test": "vitest"
+	},
 	"devDependencies": {
 		"typescript": "4.9.4",
 		"vite": "4.0.4",
